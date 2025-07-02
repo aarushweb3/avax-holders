@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Solidity Version](https://img.shields.io/badge/Solidity-0.8.30-blue)
 
 # AVAXHolders Smart Contract
 
